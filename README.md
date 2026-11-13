@@ -281,9 +281,5 @@ python3 ~/.agents/registry/gen_registry.py                           # 刷新能
 - 示范成片使用样板自带的预置示例配音（`assets/cinematic-template/assets/voice.wav`），未使用任何真人录音；本技能不带内置 TTS，配音后端由使用者自己接入。
 
 ## 赞赏支持
-
-<div align="center">
-  <img src="assets/wechat-donate.png" width="300" alt="微信赞赏码" />
-  <p><strong>微信扫码赞赏</strong></p>
-  <p>微号：<strong>hrc_rch</strong>（说明来意）</p>
+  <p>微号：<strong>yester0708</strong>（说明来意）</p>
 </div>
